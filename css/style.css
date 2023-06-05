@@ -411,6 +411,21 @@ p {
   background-color: #fff;
 }
 
+.lower-box {
+  background: #fff;
+  text-align: center;
+  padding: 60px 0;
+  border-radius: 15px;
+  margin-top: 62px;
+  margin-bottom: 10px;
+  background: url(../images/bg-service3.png) bottom 18px right 18px,
+    url(../images/bg-service1.png) bottom left,
+    url(../images/bg-service2.png) top right 230px;
+  background-repeat: no-repeat;
+  background-size: 70px, 300px, 190px;
+  background-color: #fff;
+}
+
 .services .completed h2 {
   font-size: 40px;
   font-weight: 600;
